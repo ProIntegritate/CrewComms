@@ -15,7 +15,7 @@ It basically consists of one executable (Soundplayer.exe) and 9 wave files, each
 4,5,6
 7,8,9**
 
-<img align="top" width="100" src="https://github.com/ProIntegritate/CrewComms/blob/main/SoundPlayer.png" />
+<img align="top" width="300" src="https://github.com/ProIntegritate/CrewComms/blob/main/SoundPlayer.png" />
 
 I used no button controls in the program and instead used pictureboxes with a triggable event (Onclick) to make it look better.
 
