@@ -4,10 +4,10 @@
 
 <img align="top" width="400" src="https://github.com/ProIntegritate/CrewComms/blob/main/Demo.png" />
 
-Binary package: **CrewComms1.0.zip**
-Source code: **CrewCommsv1.0.source.zip**
+Binary package: **CrewComms1.0.zip** <br/>
+Source code: **CrewCommsv1.0.source.zip** <br/>
 
-Crew Comms is a standalone executable built upon .NET framework 4.0, it is a basic panel that just play sounds as you press a simulated airplane panel. Since i mostly play Airbus A320, that is what it drew inspiration from, and also to look more like part of the simulator than an external program.
+*Crew Comms* is a standalone executable built upon .NET framework 4.0, it is a basic panel that just play sounds as you press a simulated airplane panel. Since i mostly play Airbus A320, that is what it drew inspiration from, and also to look more like part of the simulator than an external program.
 
 It basically consists of one executable (Soundplayer.exe) and 9 wave files, each wave file corresponds to the button on the panel. 
 
@@ -15,7 +15,7 @@ As seen on the picture below, I used no button controls in the program and inste
 
 <img align="top" width="300" src="https://github.com/ProIntegritate/CrewComms/blob/main/SoundPlayer.png" />
 
-The sounds included are:
+The sounds used by the program is:
 
 1. (De)Boarding sound
 2. Pre flight announcement (Cabin crew)
@@ -29,11 +29,11 @@ The sounds included are:
 
 # How to use it
 
-Make sure all .wav files are in the same path as the executable, then start the executable. Click on each button to play it's respective sound, if there are no sounds playing, then you probably have no sounds in the folder as described above or you may have some problems with your sound device.
+- Make sure all .wav files are in the same path as the executable, then start the executable. Click on each button to play it's respective sound, if there are no sounds playing, then you probably have no sounds in the folder as described above or you may have some problems with your sound device.
 
-The program does not require a specific simulator to run, but i built it for the A320 and MSFS 2020. It can be started regardless of the state of the simulator, once you are done with it, you can end it by clicking on the top right X.
+- The program does not require a specific simulator to run, but i built it for the A320 and MSFS 2020. It can be started regardless of the state of the simulator, once you are done with it, you can end it by clicking on the top right X.
 
-In the simulator, you ALT TAB to get the program up front, click on a button, then click on the simulator again to focus back on the simulator.
+- In the simulator, you ALT+TAB to get the program up front, click on a button, then click on the simulator again to focus back on the simulator. The sound will keep playing, even in the background.
 
 That is basically it.
 
