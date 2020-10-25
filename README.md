@@ -11,13 +11,9 @@ Crew Comms is a standalone executable built upon .NET framework 4.0, it is a bas
 
 It basically consists of one executable (Soundplayer.exe) and 9 wave files, each wave file corresponds to the button on the panel. 
 
-**1,2,3
-4,5,6
-7,8,9**
+As seen on the picture below, I used no button controls in the program and instead used pictureboxes with a triggable event (.Onclick) to make it look better, a button control would have looked really ugly and had broken immersion.
 
 <img align="top" width="300" src="https://github.com/ProIntegritate/CrewComms/blob/main/SoundPlayer.png" />
-
-I used no button controls in the program and instead used pictureboxes with a triggable event (Onclick) to make it look better.
 
 The sounds included are:
 
@@ -30,6 +26,7 @@ The sounds included are:
 7. Descent announcement (Cabin crew)
 8. Prepare for landing message (Captain)
 9. Post landing announcement (Cabin crew)
+
 
 #Testimonials:
 
