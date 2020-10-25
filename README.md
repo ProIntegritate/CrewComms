@@ -4,14 +4,32 @@
 
 <img align="top" width="400" src="https://github.com/ProIntegritate/CrewComms/blob/main/Demo.png" />
 
-Binary package: **CrewComms1.0.zip** <br/>
-Source code: **CrewCommsv1.0.source.zip** <br/>
-
 *Crew Comms* is a standalone executable built upon .NET framework 4.0, it is a basic panel that just play sounds as you press a simulated airplane panel. Since i mostly play Airbus A320, that is what it drew inspiration from, and also to look more like part of the simulator than an external program.
 
 It basically consists of one executable (Soundplayer.exe) and 9 wave files, each wave file corresponds to the button on the panel. 
 
-As seen on the picture below, I used no button controls in the program and instead used pictureboxes with a triggable event (.Onclick) to make it look better, a button control would have looked really ugly and had broken immersion.
+# Files:
+
+Program package:<br/>
+**CrewComms1.0-Soundplayer.zip** <br/>
+
+Required sound files:<br/>
+**1.wav.zip** <br/>
+**2.wav.zip** <br/>
+**3.wav.zip** <br/>
+**4.wav.zip** <br/>
+**5.wav.zip** <br/>
+**6.wav.zip** <br/>
+**7.wav.zip** <br/>
+**8.wav.zip** <br/>
+**9.wav.zip** <br/>
+
+Source code is not required to download, but it is available in the **CrewCommsv1.0.source.zip** file <br/>
+(This is the first and final version, if you want improvements - you are free to bransch this project and make them yourself).
+
+# A bit about how it works
+
+As seen on the picture below, I used no button controls in the program and instead used pictureboxes with a triggable event (.Onclick) to make it look better, a button control would have looked really ugly and had broken immersion. It uses an instance of a mediaplayer control to play the sounds. If there was an MP3 library on every Windows box, i would have used that instead.
 
 <img align="top" width="300" src="https://github.com/ProIntegritate/CrewComms/blob/main/SoundPlayer.png" />
 
