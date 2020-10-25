@@ -27,7 +27,7 @@ Required sound files:<br/>
 **9.wav.zip** <br/>
 
 Source code is not required to download, but it is available in the **CrewCommsv1.0.source.zip** file <br/>
-(This is the first and final version, if you want improvements - you are free to bransch this project and make them yourself, i'm not interested in maintaining this as i just wanted basic functionality - so you go ahead and do that).
+(This is the first and final version, if you want improvements - you are free to branch this project and make them yourself, i'm not interested in maintaining this as i just wanted basic functionality - so you go ahead and do that).
 
 # A bit about how it works
 
