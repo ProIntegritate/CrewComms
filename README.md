@@ -60,6 +60,8 @@ The sounds used by the program is:
 
 That is basically it.
 
+Here is a youtube video of it in "action":  https://www.youtube.com/watch?v=ITmfnRq8Z3I
+
 Uninstall instructions: Delete all files. It has no dependencies and it does not register anything. All it requires is .NET framework 4.0 and that should probably already be installed on your system. If it isn't there (like if you are running Windows 7 or something) grab it from Microsoft official site and install that.
 
 # Testimonials:
