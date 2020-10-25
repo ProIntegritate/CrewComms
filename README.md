@@ -15,21 +15,21 @@ It basically consists of one executable (Soundplayer.exe) and 9 wave files, each
 4,5,6
 7,8,9**
 
-<img align="top" width="100" src="https://github.com/ProIntegritate/CrewComms/blob/main/Soundplayer.png" />
+<img align="top" width="100" src="https://github.com/ProIntegritate/CrewComms/blob/main/SoundPlayer.png" />
 
 I used no button controls in the program and instead used pictureboxes with a triggable event (Onclick) to make it look better.
 
 The sounds included are:
 
-- 1. (De)Boarding sound
-- 2. Pre flight announcement (Cabin crew)
-- 3. Safety Demonstration (Cabin crew)
-- 4. Prepare for Takeoff message (Captain)
-- 5. Post takeoff announcement (Cabin crew)
-- 6. Turbulence alert message (Captain)
-- 7. Descent announcement (Cabin crew)
-- 8. Prepare for landing message (Captain)
-- 9. Post landing announcement (Cabin crew)
+1. (De)Boarding sound
+2. Pre flight announcement (Cabin crew)
+3. Safety Demonstration (Cabin crew)
+4. Prepare for Takeoff message (Captain)
+5. Post takeoff announcement (Cabin crew)
+6. Turbulence alert message (Captain)
+7. Descent announcement (Cabin crew)
+8. Prepare for landing message (Captain)
+9. Post landing announcement (Cabin crew)
 
 #Testimonials:
 
