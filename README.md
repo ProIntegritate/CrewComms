@@ -27,11 +27,24 @@ The sounds included are:
 8. Prepare for landing message (Captain)
 9. Post landing announcement (Cabin crew)
 
+# How to use it
 
-#Testimonials:
+Make sure all .wav files are in the same path as the executable, then start the executable. Click on each button to play it's respective sound, if there are no sounds playing, then you probably have no sounds in the folder as described above or you may have some problems with your sound device.
 
-1. Generate audio speech: https://ttsmp3.com/?
-2. The chime sound - https://freesound.org/people/nachosose/sounds/244583/
-3. Button click - from MSFS2020 itself.
+The program does not require a specific simulator to run, but i built it for the A320 and MSFS 2020. It can be started regardless of the state of the simulator, once you are done with it, you can end it by clicking on the top right X.
+
+In the simulator, you ALT TAB to get the program up front, click on a button, then click on the simulator again to focus back on the simulator.
+
+That is basically it.
+
+Uninstall instructions: Delete all files. It has no dependencies and it does not register anything. All it requires is .NET framework 4.0 and that should probably already be installed on your system. If it isn't there (like if you are running Windows 7 or something) grab it from Microsoft official site and install that.
+
+# Testimonials:
+
+What is used to create this:
+
+1. I generated audio speech with: https://ttsmp3.com/?
+2. The chime sound was downloaded from - https://freesound.org/people/nachosose/sounds/244583/
+3. The Button click came from MSFS2020 itself, it's basically the same in all sims.
 4. Audacity was used to make the voices sound as if the crew were talking through a crap PA system.
-5. Modified some scripts from: https://airodyssey.net/reference/inflight/
+5. I modified and used some scripts from: https://airodyssey.net/reference/inflight/
